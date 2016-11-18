@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {{site.title}} | About
+title: The Canarium | About
 permalink: /about
 ---
 

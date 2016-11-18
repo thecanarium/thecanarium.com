@@ -1,6 +1,6 @@
 ---
 layout: page
-title: {{site.title}} | CV
+title: The Canarium | CV
 permalink: /cv
 ---
 
