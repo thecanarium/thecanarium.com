@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Canarium | CV
+title: CV
 permalink: /cv
 ---
 

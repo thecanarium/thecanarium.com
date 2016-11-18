@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Canarium | About
+title: About
 permalink: /about
 ---
 
