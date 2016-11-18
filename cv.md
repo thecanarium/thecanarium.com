@@ -7,10 +7,10 @@ Skills:
 BB products, WordPress, custom themes, drupal, and plugins and coding, Php, html css js fluent, jquery
 
 Experience:
-•  Past jobs
+-Past jobs
 
 Clients:
-•  Client stories with link to portfolio 
+-Client stories with link to portfolio 
 
 Projects:
-•  Projects with link to each, and link at bottom to project page 
+-Projects with link to each, and link at bottom to project page 
