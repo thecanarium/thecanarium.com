@@ -1,8 +1,9 @@
 ---
 layout: page
-title: {{site.title}}: CV
+title: {{site.title}} | CV
 permalink: /cv
 ---
+
 Skills:
 BB products, WordPress, custom themes, drupal, and plugins and coding, Php, html css js fluent, jquery
 
