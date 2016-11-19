@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-can
 title: Clients
 permalink: /clients/
 ---
