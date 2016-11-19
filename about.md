@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About The Canarium
+layout: page-can
+title: About
 permalink: /about
 ---
 

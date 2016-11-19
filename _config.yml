@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Canarium
-email: don@thecanarium.com
+email: web@thecanarium.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm Don Knieriem, freelance web designer, programmer, and sysadmin. To contact me
   about working for you, email me at web@thecanarium.com
