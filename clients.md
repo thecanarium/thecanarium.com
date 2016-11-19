@@ -4,7 +4,7 @@ title: Clients
 permalink: /clients/
 ---
 
-#National Food Sales#
+## National Food Sales ##
 
 Challenge: Bring an older site up to date, accessible on mobile devices, and make it easier for staff to make changes as needed.
 
