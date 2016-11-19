@@ -17,8 +17,10 @@ BB products, WordPress, custom themes, drupal, and plugins and coding, Php, html
 Experience:
 -Past jobs
 
-### [Clients](/clients/) ###
+### Clients ###
 
+View past [client stories](/clients/)
 
-### [Projects](/projects/) ###
--Projects with link to each, and link at bottom to project page 
+### Projects ###
+
+View my [personal projects](/projects/)

@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.thecanarium.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thecanarium
 github_username:  thecanarium
-
+logo: "/assets/logo.png"
 # Build settings
 markdown: kramdown
 theme: minima
